@@ -20,7 +20,8 @@ linkedList.add(4);
 linkedList.sort();
 linkedList.print();
 
-
+//różnice miedzy interfejsem a klasami abstrakcyjnymi
+//czyli bardzo różne obiekty albo bardzo podobne i blisko ze sobą powiązane
 
 
 
