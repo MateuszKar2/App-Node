@@ -40,14 +40,15 @@ Make sure you have the following installed:
 The app will typically run at:
 http://localhost:3000
 
-📁 Project Structure
-App-Node/
-├── node_modules/
-├── src/
-│   ├── routes/
-│   └── server.js
-├── package.json
-└── README.md
+## 📁 Project Structure
+
+- `App-Node/`
+  - `node_modules/` – folder zainstalowanych zależności
+  - `src/` – główny folder aplikacji
+    - `routes/` – pliki z trasami (routes)
+    - `server.js` – plik startowy aplikacji
+  - `package.json` – informacje o projekcie i zależnościach
+  - `README.md` – plik z dokumentacją projektu
 
 ✨ Features
 Basic Express setup
